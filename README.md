@@ -10,7 +10,7 @@
   <h1>Hi there, I'm Haoru Song (宋昊儒) 👋</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=3776AB&vCenter=true&width=500&lines=Proteomics+Researcher+%26+Developer;Architect+of+Chat-RefinedTPP+Platform;Bridging+AI+Agents+and+Wet+Lab+Data" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3776AB&vCenter=true&width=500&lines=Proteomics+Researcher+%26+Developer;Architect+of+Chat-RefinedTPP+Platform;Bridging+AI+Agents+and+Wet+Lab+Data" alt="Typing SVG" />
   </a>
   
   <p align="left">
