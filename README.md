@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img align="right" width="200" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Coding GIF">
+  <img align="right" width="150" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Coding GIF">
   
   <h1>Hi there, I'm Haoru Song (宋昊儒) 👋</h1>
   
