@@ -79,7 +79,9 @@ Currently leading the development of **Chat-RefinedTPP Platform**.
   <i>More analytical tools and data pipelines are continuously being deployed...</i>
 </div>
 
-
+<p align="center">
+  <img src="https://profile-counter.glitch.me/SongHaoru-max/count.svg" alt="Visitor Counter" />
+</p>
 
 
 <!--
