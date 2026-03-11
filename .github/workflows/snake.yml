@@ -13,6 +13,10 @@ on:
     branches:
     - main
 
+# Force the use of Node.js 24 to resolve deprecation warnings
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   generate:
     permissions: 
@@ -31,8 +35,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         
       # push the generated pictures to output branch
+      # Updated to v4 to support Node.js 24 environment
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
