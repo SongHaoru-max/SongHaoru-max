@@ -75,11 +75,15 @@ Currently leading the development of **Chat-RefinedTPP Platform**.
 </div>
 <br>
 
-<h3 align="center">📍 Real-time Access Map</h3>
+<h3 align="center">🌐 Global Analytical Footprint</h3>
 <p align="center">
-  <a href="https://www.revolvermaps.com/livestats/5songhaoru/">
-    <img src="https://ra.revolvermaps.com/h/m/a/0/00d2ff/128/0/5songhaoru.png" width="256" height="128" alt="Stats" style="border:0;">
+  <a href="https://github.com/SongHaoru-max">
+    <img src="https://grid-stats.com/api/globe?username=SongHaoru-max&theme=tokyonight&base_color=0D1117&line_color=00D2FF&dot_color=FF4B2B" width="600" alt="Global Globe" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SongHaoru-max&label=TOTAL+ANALYTICAL+LOGS&color=00D2FF&style=flat-square" alt="Visitor Counter" />
 </p>
 
 <div align="center">
