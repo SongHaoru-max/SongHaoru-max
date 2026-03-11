@@ -75,13 +75,16 @@ Currently leading the development of **Chat-RefinedTPP Platform**.
 </div>
 <br>
 
+<h3 align="center">📍 Real-time Access Map</h3>
+<p align="center">
+  <a href="https://www.revolvermaps.com/livestats/5songhaoru/">
+    <img src="https://ra.revolvermaps.com/h/m/a/0/00d2ff/128/0/5songhaoru.png" width="256" height="128" alt="Stats" style="border:0;">
+  </a>
+</p>
+
 <div align="center">
   <i>More analytical tools and data pipelines are continuously being deployed...</i>
 </div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/SongHaoru-max/count.svg" alt="Visitor Counter" />
-</p>
 
 
 <!--
