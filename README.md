@@ -10,7 +10,7 @@
   <h1>Hi there, I'm Haoru Song (宋昊儒) 👋</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3776AB&vCenter=true&width=500&lines=Proteomics+Researcher+%26+Developer;Architect+of+Chat-RefinedTPP+Platform;Bridging+AI+Agents+and+Wet+Lab+Data" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3776AB&vCenter=true&width=500&lines=Proteomics+Researcher+%26+Developer;Architect+of+Chat-RefinedTPP+Platform;Bridging+AI+Agents+and+Wet+Lab+Data" alt="Typing SVG" />
   </a>
   
   <p align="left">
@@ -55,21 +55,25 @@ Currently leading the development of **Chat-RefinedTPP Platform**.
 <br>
 
 <div align="center">
-  <a href="My Personal Academic Page">
+  <a href="https://songhaoru-max.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Academic%20Homepage-Explore%20My%20Research-FF69B4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic Homepage" />
   </a>
 </div>
-
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Project-Chat--RefinedTPP-00D2FF?style=flat-square&logo=github" />
+  <a href="https://github.com/SongHaoru-max/Refined-TPP_Chat_Platform">
+    <img src="https://img.shields.io/badge/Project-Chat--RefinedTPP-00D2FF?style=flat-square&logo=github" />
+  </a>
   
-  <img src="https://img.shields.io/badge/Affiliation-Fudan%20University-FF4B2B?style=flat-square&logo=academia" />
+  <a href="https://www.fudan.edu.cn/en/">
+    <img src="https://img.shields.io/badge/Affiliation-Fudan%20University-FF4B2B?style=flat-square&logo=academia" />
+  </a>
 
-  <img src="https://img.shields.io/badge/Focus-Thermal%20Proteome%20Profile-green?style=flat-square&logo=target" />
+  <a href="https://songhaoru-max.github.io/">
+    <img src="https://img.shields.io/badge/Focus-Thermal%20Proteome%20Profile-green?style=flat-square&logo=target" />
+  </a>
 </div>
-
 <br>
 
 <div align="center">
