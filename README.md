@@ -75,15 +75,8 @@ Currently leading the development of **Chat-RefinedTPP Platform**.
 </div>
 <br>
 
-<h3 align="center">🌐 Global Analytical Footprint</h3>
 <p align="center">
-  <a href="https://github.com/SongHaoru-max">
-    <img src="https://grid-stats.com/api/globe?username=SongHaoru-max&theme=tokyonight&base_color=0D1117&line_color=00D2FF&dot_color=FF4B2B" width="600" alt="Global Globe" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SongHaoru-max&label=TOTAL+ANALYTICAL+LOGS&color=00D2FF&style=flat-square" alt="Visitor Counter" />
+  <img src="https://count.getloli.com/get/@SongHaoru-max?theme=3d-num">
 </p>
 
 <div align="center">
