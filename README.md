@@ -76,7 +76,7 @@ Currently leading the development of **Chat-RefinedTPP Platform**.
 <br>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@SongHaoru-max?theme=3d-num">
+  <img src="https://count.getloli.com/get/@SongHaoru-max?theme=minecraft">
 </p>
 
 <div align="center">
