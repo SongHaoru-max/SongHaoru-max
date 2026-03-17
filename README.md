@@ -32,7 +32,7 @@ Currently leading the development of **Chat-RefinedTPP Platform**.
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,linux,git,github&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,r,vscode,linux,git,github&theme=dark" alt="My Skills" />
   </a>
 </p>
 <p align="center">
