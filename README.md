@@ -43,7 +43,7 @@ Currently leading the development of **Chat-RefinedTPP Platform**.
 <h3 align="center">📈 GitHub Stats</h3>
 <div align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SongHaoru-max&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongHaoru-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SongHaoru-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Top Languages" />
 </div>
 <br>
 
